@@ -33,7 +33,7 @@ const menu: TMenuItem[] = [
   {
     icon: <SettingsIcon size={16} />,
     path: DASHBOARD_PAGES.SETTINGS,
-    text: "Настройки",
+    text: "Настройки мазафака",
   },
 ];
 
